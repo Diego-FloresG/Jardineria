@@ -14,6 +14,15 @@ insert into Empresas values
 (173,'Jardineria Torres','Jardineria Torres',' Calzada Gómez morin #38
 21323 Mexicali
 México  ',' (81) 8387 0620    ','contacto@viverdimexico.com  ','https://www.homify.com.mx/profesionales/7152342/servicios-de-jardineria-torres','m.facebook.com/JardineriaTorres/?locale2=es_LA ')
+(174,'City Garden','City Garden',' Trigo 8, Granjas Esmeralda
+Iztapalapa, CP 09810
+Ciudad de México ',' 55 26017810 ','info@citygardenmexico.com.mx ','https://www.citygardenmexico.com.mx/','https://es-la.facebook.com/pages/category/Garden-Center/City-Garden-M%C3%A9xico-132378016867310/'),
+(175,'Fractal','Fractal','  Av. Cafetales #1740 - 103Delegación Coyoacán CDMX C.P. 04970',' 55-8925-1636  ','contacto@fractaljardineria.com ','https://www.fractaljardineria.com/serviciodealtajardineria','Whatsapp 55-3081-9525'),
+
+
+
+
+(176,'Jardineria Guerrero','Jardineria Guerrero','  BAJA CALIFORNIA SUR, 6311, CAMINO VERDE (CAÑADA VERDE), TIJUANA, BC, ',' 664-686-7208  ','rafael.arzate.garcia@gmail.com ','https://www.jardineriaguerrero.com.mx/,','whatsapp +52 1 664 251 2292'),
 /******************332******************/
 
 /******************333******************/
