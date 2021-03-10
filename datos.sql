@@ -10,5 +10,15 @@ insert into Empresas values
 
 /******************333******************/
 insert into Empresas values
+(3,'Jardines Clock','calle 651, colonia 665','6644646541','clock_jardines@gmail.com','https://clock.com','@ClockJarnides'),
+(333, 'Wilfredos Landscaping Services', '19515 Frederick Rd Germantown, MD 20876','(240) 650-0989','wilfredoslandscaping@gmail.com','https://www.landscapingservicesmd.com', 'https://www.facebook.com/Wilfredos-Landscaping-Service-477069489032449/'),
+(334, 'American Landscaping','15530 Peach Orchard Rd Silver Spring, MD 20905','(301) 384-4486','info@americanlandscapinginc.net','https://marylandlandscaping.net','https://www.facebook.com/americanlandscapinginc/'),
+(335, 'Lees Tree Service','16105 Morrow Rd Poolesville, MD 20837','(301) 284-8682','leestreeserviceinc@yahoo.com','http://www.leestreeservice.net','https://www.facebook.com/LeePeytonTreeServiceInc/'),
+(336, 'Mead Tree & Turf Care Inc','3316 Hipsley Mill Rd Woodbine, MD 21797', '(301) 854-5990','info@meadtree.com','https://www.meadtree.com','https://www.facebook.com/Meadtree/'),
+(337, 'AW Landscapes, Inc. of Maryland','16998 Overhill Rd Derwood, MD 20855', '(301) 366-0456','info@awlandscapes.com','http://www.awlandscapes.com',''),
+(338, 'Oh My Yard','206 49th St NE Washington, DC 20019','(202) 527-0276','','http://ohmyyard.com',''),
+(339, 'A A A Lawn Service','Washington, DC 20011','(202) 722-2680','','',''),
+(340, 'Lawn Love Lawn Care', '1655 North Fort Myer Dr Suite 700B Arlington, VA 22209','(571) 781-0445', 'info@lawnlove.com','https://lawnlove.com/virginia/arlington-lawn-care','https://www.facebook.com/lawnlove'),
+(343, 'J.N. King Lawn Care', '4904 Virginia St Alexandria, VA 22312','(703) 401-0747', 'jnkinglawncare@gmail.com','https://www.lawncarealexandriava.com/contact-us','https://www.facebook.com/lawncarealexandriava/'),
 
 /******************498******************/
