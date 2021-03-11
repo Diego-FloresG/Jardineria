@@ -128,6 +128,8 @@ Ciudad de México ',' 55 26017810 ','info@citygardenmexico.com.mx ','https://www
 (179,'HABITECMX','HABITECMX','  Azcapotzalco, Ciudad De México ',' +52-5553697842  ','','https://www.homify.com.mx/profesionales/3535356/habitecmx','')
 (180,'JARDINERIA BONATERRA','JARDINERIA BONATERRA','  Gladiolas 8
 16029 Ciudad de México, mx ',' +52-5534298166','https://www.homify.com.mx/profesionales/8145363/jardineria-bonaterra','m.facebook.com/Jardiner%C3%ADa-Bonaterra-114549203330428/?__tn__=C-R'),
+(181,'Progarden','Progarden','   Calle Palomares 8200, Lomas de Agua Caliente, 22024 Tijuana, B.C. ','  Tijuana   (664) 261 19 92 ','info@progardenmexico.com ','http://www.progardenmexico.com/index.htm',''),
+(182,'Jardineria Especializada','Jardineria Especializada','   Padre Hidalgo 72, Olivar del Conde 1ra Secc, Álvaro Obregón, 01400 Ciudad de México, CDMX ',' 6850-1740  ','contacto@jardineriaespecializada.com.mx ','http://www.jardineriaespecializada.com.mx/',''),
 /******************332******************/
 
 /******************333******************/
