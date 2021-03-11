@@ -140,7 +140,6 @@ Ciudad de México ',' 55 26017810 ','info@citygardenmexico.com.mx ','https://www
 
 /******************333******************/
 insert into Empresas values
-(3,'Jardines Clock','calle 651, colonia 665','6644646541','clock_jardines@gmail.com','https://clock.com','@ClockJarnides'),
 (333, 'Wilfredos Landscaping Services', '19515 Frederick Rd Germantown, MD 20876','(240) 650-0989','wilfredoslandscaping@gmail.com','https://www.landscapingservicesmd.com', 'https://www.facebook.com/Wilfredos-Landscaping-Service-477069489032449/'),
 (334, 'American Landscaping','15530 Peach Orchard Rd Silver Spring, MD 20905','(301) 384-4486','info@americanlandscapinginc.net','https://marylandlandscaping.net','https://www.facebook.com/americanlandscapinginc/'),
 (335, 'Lees Tree Service','16105 Morrow Rd Poolesville, MD 20837','(301) 284-8682','leestreeserviceinc@yahoo.com','http://www.leestreeservice.net','https://www.facebook.com/LeePeytonTreeServiceInc/'),
