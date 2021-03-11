@@ -123,6 +123,11 @@ Ciudad de México ',' 55 26017810 ','info@citygardenmexico.com.mx ','https://www
 
 
 (176,'Jardineria Guerrero','Jardineria Guerrero','  BAJA CALIFORNIA SUR, 6311, CAMINO VERDE (CAÑADA VERDE), TIJUANA, BC, ',' 664-686-7208  ','rafael.arzate.garcia@gmail.com ','https://www.jardineriaguerrero.com.mx/,','whatsapp +52 1 664 251 2292'),
+(177,'Jardines y Caprichos','Jardines y Caprichos','   Calle Tercera 7050, Zona Centro, 22000 Tijuana, B.C. ',' 664-524-1963 ',' ','https://www.jardineriayviverocaprichos.com/','Whataspp +52 1 664 335 1334'),
+(178,'Garden Outlet','Garden Outlet','  22110, Bulevar Lázaro Cárdenas #128, Fracc. Alamar, 22003 Tijuana, B.C. ','664 686 8090 ','','https://gardenoutlet.mx/diseno-y-jardineria/','https://www.facebook.com/pruebagardenoutletmx/'),
+(179,'HABITECMX','HABITECMX','  Azcapotzalco, Ciudad De México ',' +52-5553697842  ','','https://www.homify.com.mx/profesionales/3535356/habitecmx','')
+(180,'JARDINERIA BONATERRA','JARDINERIA BONATERRA','  Gladiolas 8
+16029 Ciudad de México, mx ',' +52-5534298166','https://www.homify.com.mx/profesionales/8145363/jardineria-bonaterra','m.facebook.com/Jardiner%C3%ADa-Bonaterra-114549203330428/?__tn__=C-R'),
 /******************332******************/
 
 /******************333******************/
