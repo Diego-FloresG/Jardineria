@@ -130,6 +130,9 @@ Ciudad de México ',' 55 26017810 ','info@citygardenmexico.com.mx ','https://www
 16029 Ciudad de México, mx ',' +52-5534298166','https://www.homify.com.mx/profesionales/8145363/jardineria-bonaterra','m.facebook.com/Jardiner%C3%ADa-Bonaterra-114549203330428/?__tn__=C-R'),
 (181,'Progarden','Progarden','   Calle Palomares 8200, Lomas de Agua Caliente, 22024 Tijuana, B.C. ','  Tijuana   (664) 261 19 92 ','info@progardenmexico.com ','http://www.progardenmexico.com/index.htm',''),
 (182,'Jardineria Especializada','Jardineria Especializada','   Padre Hidalgo 72, Olivar del Conde 1ra Secc, Álvaro Obregón, 01400 Ciudad de México, CDMX ',' 6850-1740  ','contacto@jardineriaespecializada.com.mx ','http://www.jardineriaespecializada.com.mx/',''),
+(183,'Casa y Jardin','Casa y Jardin','   1000 Ciudad de México, CDMX, Mexico ',' +52 55 5520 1322 ',' casayjardinmx@gmail.com','https://www.casayjardinmx.com/','https://www.facebook.com/casay.jardin.520'),
+(184,'Jardineria la Encantada','Jardineria la Encantada','    mercado de madreselva local 37 sección puebla, Xaltocan, Xochimilco, 16090 Ciudad de México',' 55 1921 6706 ',' ','https://jardinerialaencantada.es.tl/',''),
+(185,'Floreria Ahakukaria','Floreria Ahakukaria','   Av. José Ma. Castorena #239 Col. Cuajimalpa, C.P. 05000 ',' Teléfono: (55) 5812-2197 ',' administracion@viveroarahukaria.com.mx ','https://www.viveroarahukaria.com.mx/',''),
 /******************332******************/
 
 /******************333******************/
