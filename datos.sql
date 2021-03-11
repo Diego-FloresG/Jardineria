@@ -135,6 +135,13 @@ Ciudad de México ',' 55 26017810 ','info@citygardenmexico.com.mx ','https://www
 (185,'Floreria Ahakukaria','Floreria Ahakukaria','   Av. José Ma. Castorena #239 Col. Cuajimalpa, C.P. 05000 ',' Teléfono: (55) 5812-2197 ',' administracion@viveroarahukaria.com.mx ','https://www.viveroarahukaria.com.mx/',''),
 (186,'Vivero Contreras','Vivero Contreras','   Sinaloa #18, México, 63514 Tepic, Nay. ',' 311 148 3194 ','robercontre70@hotmail.com ','https://vivero-contreras.ueniweb.com/?utm_campaign=gmb',''),
 (187,'Sociedad de Jardineros Contructores de Xochimilco','Sociedad de Jardineros Contructores de Xochimilco','   CALLE JACARANDAS, 33, SAN LUCAS ORIENTE, XOCHIMILCO, DF, C.P. 16320 ',' 55-1454-0702 ','jardinerosxochimilco@hotmail.com ','https://www.jardinerosdecoradores.com/','Whataspp +52 1 55 7378 7451'),
+(188,'Consorcio Industrial en Jardineria SA.DE C.V','Consorcio Industrial en Jardineria SA.DE C.V','  Durango 164, Peñón de los Baños, Venustiano Carranza, 15520 Ciudad de México, CDMX ',' (55) 5762-3806 / (55) 5786-7392 /',' consorcio_99@yahoo.com.mx ','http://www.consorcioenjardineria.com/desmalezadoras',''),
+(189,'Jardineros Unidos Mexicanos','Jardineros Unidos Mexicanos','  CALLE TESNENE, 74, PEDREGAL DE SANTO DOMINGO, COYOACAN, DF, C.P. 04369 ',' Tel.: 55-7679-5750 ','jardines.unidos.mexicanos@gmail.com ','https://www.jardinesunidosmexicanos.com.mx/#inicio','Whataspp 52 1 55 7608 8949'),
+(190,'jardinería|jardineros|viveros','jardinería|jardineros|viveros','   16040
+La asunción
+16040 México, CDMX
+México ',' 55 2829 4040 ',' ','https://jardineriacdmx.negocio.site/',''),
+(191,'Agro servicios y Jardineria Akira Fukushima','Agro servicios y Jardineria Akira Fukushima','  Buganvilia Nº 120 Xaltocan, Xochimilco (Distrito Federal). Distrito Federal ',' 55 5653 5053 ',' ','https://www.jardineros.mx/empresas/agro-servicio-y-jardineria-akira-fukushima','),
 
 /******************332******************/
 
