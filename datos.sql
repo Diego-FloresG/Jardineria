@@ -141,7 +141,7 @@ Ciudad de México ',' 55 26017810 ','info@citygardenmexico.com.mx ','https://www
 La asunción
 16040 México, CDMX
 México ',' 55 2829 4040 ',' ','https://jardineriacdmx.negocio.site/',''),
-(191,'Agro servicios y Jardineria Akira Fukushima','Agro servicios y Jardineria Akira Fukushima','  Buganvilia Nº 120 Xaltocan, Xochimilco (Distrito Federal). Distrito Federal ',' 55 5653 5053 ',' ','https://www.jardineros.mx/empresas/agro-servicio-y-jardineria-akira-fukushima','),
+(191,'Agro servicios y Jardineria Akira Fukushima','Agro servicios y Jardineria Akira Fukushima','  Buganvilia Nº 120 Xaltocan, Xochimilco (Distrito Federal). Distrito Federal ',' 55 5653 5053 ',' ','https://www.jardineros.mx/empresas/agro-servicio-y-jardineria-akira-fukushima',')',
 
 /******************332******************/
 
