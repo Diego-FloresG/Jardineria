@@ -155,6 +155,33 @@ insert into Empresas values
 
 /******************167******************/
 insert into Empresas values
+(167,'jardineria2000s.a',' 56.83.17.81','contacto@jardineria2000.com','https://jardineria2000.com/','Whatsapp 55 54 51 0083',167),
+(168,'koala','55.67.98.37.53','contacto@jgrupokoala.com.mx','https://www.grupokoala.com.mx/jardinera-koala','Whatsapp 55.84.24.4772',168),
+(169,'colibrijardineria','(55) 54898962','contacto@colibrijardineria.com.mx','http://colibrijardineria.com.mx/','',169),
+(170,'servicemastermexico','01 52 (81)81342927','info@servicemastermexico.com ','https://www.servicemastermexico.com/jardineria.html','https://twitter.com/servicemasterm2',170),
+(171,'garden central jardineria ','Tel1: 55.5282.3274','','https://garden-central.mx/','',171),
+(172,'viverdi'','(81) 8387 0620 ','contacto@viverdimexico.com','https://viverdimexico.com/jardines/','whatasapp+52 81 8273 2842 ',172),
+(173,'jardineria torres','(81) 8387 0620  ','contacto@viverdimexico.com ','https://www.homify.com.mx/profesionales/7152342/servicios-de-jardineria-torres','m.facebook.com/JardineriaTorres/?locale2=es_LA ',173),
+(174,'city garden','55 26017810 ','info@citygardenmexico.com.mx','https://www.citygardenmexico.com.mx/','https://es-la.facebook.com/pages/category/Garden-Center/City-Garden-M%C3%A9xico-132378016867310/',174),
+(175,'fractal',' 55-8925-1636','contacto@fractaljardineria.com','https://www.fractaljardineria.com/serviciodealtajardineria','Whatsapp 55-3081-9525',175),
+(176,'jardineria guerrero','664-686-7208','rafael.arzate.garcia@gmail.com','https://www.jardineriaguerrero.com.mx/',''whatsapp +52 1 664 251 2292',176),
+(177,'jardines y caprichos',' 664-524-1963','','https://www.jardineriayviverocaprichos.com/','Whataspp +52 1 664 335 1334',177),
+(178,'garden outlet','664 686 8090','','https://gardenoutlet.mx/diseno-y-jardineria/','https://www.facebook.com/pruebagardenoutletmx/',178),
+(179,'habitecmx','+52-5553697842  ','','https://www.homify.com.mx/profesionales/3535356/habitecmx','',179),
+(180,'jardineria bonaterra','55-1303-3784','bonaterra19@outlook.com','https://www.jardineriabonaterra.net/','m.facebook.com/Jardiner%C3%ADa-Bonaterra-114549203330428/?__tn__=C-R',180),
+(181,'progarden','(664) 261 19 92 ','info@progardenmexico.com','http://www.progardenmexico.com/index.htm','',181),
+(182,'jardineria especializada',' 6850-1740','contacto@jardineriaespecializada.com.mx','http://www.jardineriaespecializada.com.mx/','',182),
+(183,'casa y jardin','casa y jardin','+52 55 5520 1322','casayjardinmx@gmail.com','https://www.casayjardinmx.com/','https://www.facebook.com/casay.jardin.520',183),
+(184,'jardineria la encantada','55 1921 6706','liquidmg@hotmail.com','https://jardinerialaencantada.es.tl/','',184),
+(185,'floreria ahakukaria','(55) 5812-2197','ventas@floreriaarahukaria.com.mx','https://www.viveroarahukaria.com.mx/','',185),
+(186,'vivero contreras','311 148 3194','robercontre70@hotmail.com','https://vivero-contreras.ueniweb.com/?utm_campaign=gmb','',186),
+(187,''sociedad de jardineros contructores de xochimilco','55-1454-0702','jardinerosxochimilco@hotmail.com ','https://www.jardinerosdecoradores.com','Whataspp +52 1 55 7378 7451',187),
+(188,'consorcio industrial en jardineria sa.de c.v','(55) 5762-3806',' consorcio_99@yahoo.com.mx ','http://www.consorcioenjardineria.com/desmalezadoras','consorcio_99@yahoo.com.mx ',188),
+(189,'jardineros unidos mexicanos',' 55-7679-5750','jardines.unidos.mexicanos@gmail.com ','https://www.jardinesunidosmexicanos.com.mx/#inicio','Whataspp 52 1 55 7608 8949',189),
+(190,'jardinería|jardineros|viveros','55 2829 4040 ','','https://jardineriacdmx.negocio.site/','',190),
+(191,'agro servicios y jardineria akira fukushima','55 5653 5053','','https://www.jardineros.mx/empresas/agro-servicio-y-jardineria-akira-fukushima','',191),
+
+
 (192,'eslar garden','(33)1404-7913','','https://www.seccionamarilla.com.mx/informacion/eslar-garden/jardineras/jalisco/guadalajara/mercado-de-abastos/3679621','',192),
 (193,'grupo viverde','(32)2244-1914','','https://www.seccionamarilla.com.mx/informacion/grupo-viverde/jardineria/jalisco/puerto-vallarta/de-las-juntas-delegacion/412759595','',193),
 (194,'bonsai landscaping','(33)3110-0525','','https://www.seccionamarilla.com.mx/informacion/bonsai-landscaping/jardineria/jalisco/guadalajara/col-cd-granja/3094816','',194),
